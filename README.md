@@ -1,2 +1,4 @@
 # IVR
-My project for HSE lyceum
+Инструкция по работе с проектом
+1) скачать папку proj
+2) открыть файл index.html в браузере
